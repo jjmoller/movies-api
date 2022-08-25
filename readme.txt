@@ -4,7 +4,7 @@ LAUNCHING THE PROGRAM:
 
 1. Open the folder containing the .ipynb file.
 2. The file named 'movie_file.txt' should be in the same folder and have three movies on it pre-dumped.
-3. Open Anaconda Navigator on your PC and click on the Jupyter Notebook launcher.
+3. Install or launch Anaconda Navigator on your PC and click on the Jupyter Notebook launcher.
 4. Browse your computer's files and look for the .ipynb file using the Jupyter Notebook interface on your chosen web browser.
 5. Click on the .ipynb file to open it in Jupyter Notebook. Wait for the Kernel to start.
 6. When running the program for the first, the pip will first have to be installed. This can take a few seconds.
